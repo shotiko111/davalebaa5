@@ -1,0 +1,43 @@
+header{
+    width: 1440px;
+height: 122px;
+background-color: #2A9D8F;}
+
+
+
+header li{
+    text-align: center;
+    display:inline
+    
+  
+}
+header li
+{
+   
+font-size: 20px;
+color: #FFFFFF;
+padding: 51px;
+
+
+
+}
+
+
+header li img {
+    float: left;
+    margin-left: 130px;
+    margin-top: 38px;
+border-radius: 3opx;
+font-size: xx-large;
+border-radius: 30px;
+color: #2A9D8F;
+}
+header ul button
+{
+
+ background-color: #FFFFFF;
+ float: right;
+ margin-top: 38px;
+ margin-right: 130px;
+ font-size: medium;
+}
